@@ -27,6 +27,7 @@ void merge( int * arr , int lower , int mid , int upper ){
     }
     for ( int i =lower; i <=upper ; i++){
         arr[i] = brr[i] ; 
+        
     }
 }
 void merge_sort(int *arr ,int lower , int upper ){
