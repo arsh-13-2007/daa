@@ -1,4 +1,4 @@
-// merge sort work on divide and conquer technique
+// quick  sort work on divide and conquer technique
 #include <stdio.h>
 void swap(int *a, int *b)
 {

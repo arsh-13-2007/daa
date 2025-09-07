@@ -21,6 +21,7 @@ void merge( int * arr , int lower , int mid , int upper ){
     }
     else {
         while ( i <= mid ){
+            
             brr[k] = arr[i] ; 
             i++ ; k++ ; 
         }
