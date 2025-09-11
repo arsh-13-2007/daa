@@ -10,7 +10,7 @@ int binary_search( int n , int *arr, int num ){
         else if ( arr[mid] < num ){
             lower = mid + 1 ; 
         }
-        else {
+        else {    
             higher = mid - 1 ; 
         }
     }
